@@ -1,0 +1,1 @@
+var somePrpmise = new Promise;
